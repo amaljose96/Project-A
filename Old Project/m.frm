@@ -1,0 +1,1 @@
+{"name":"Math Basics","list":{"plus":"+","add":"+","subtract":"-"}}
